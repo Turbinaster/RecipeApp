@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.RecipeApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:statusBarColor">@color/post_splash_status_bar</item>
+        <!-- Убрано android:navigationBarColor, чтобы использовать системный цвет -->
+    </style>
+
+    <style name="Theme.RecipeApp.Splash" parent="Theme.RecipeApp">
+        <item name="android:windowBackground">@color/splash_background</item>
+        <item name="android:statusBarColor">@color/splash_background</item>
+        <item name="android:navigationBarColor">@color/splash_background</item>
+    </style>
+</resources>

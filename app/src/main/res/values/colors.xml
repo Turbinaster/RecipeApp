@@ -1,0 +1,10 @@
+<resources>
+    <color name="splash_background">#F7DCA8</color>
+    <color name="post_splash_status_bar">#FF704F3C</color> <!-- Изменён для лучшего контраста -->
+    <color name="post_splash_navigation_bar">#948365</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
